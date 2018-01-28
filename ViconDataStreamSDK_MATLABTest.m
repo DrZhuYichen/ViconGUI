@@ -27,7 +27,7 @@ Client.LoadViconDataStreamSDK();
 fprintf( 'done\n' );
 
 % Program options
-HostName = 'localhost:801';
+HostName = '192.168.10.1';
 
 % Make a new client
 MyClient = Client();
